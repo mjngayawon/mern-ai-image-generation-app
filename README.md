@@ -1,16 +1,23 @@
-# React + Vite
+# 📹 AI Image Generator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built using the powerful **MERN stack**, which includes **MongoDB**, **Express.js**, **React.js**, and **Node.js**, providing a robust foundation for full-stack web development. For styling, it leverages **Tailwind CSS**, one of the most popular and efficient utility-first CSS frameworks available today. The app uses **Puter.js** to handle dynamic image generation, making it easy to create custom visuals on the fly. Generated images are stored and managed through **Cloudinary**, a cloud-based media storage service that ensures fast and reliable delivery.
 
-Currently, two official plugins are available:
+## ⚒️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- TailwindCSS
+- Cloudinary
+- Puter.js
 
-## React Compiler
+## 📷 Screenshots
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1907" height="863" alt="Image" src="https://github.com/user-attachments/assets/679192f9-5641-4515-a0ea-faa40646fa93" />
 
-## Expanding the ESLint configuration
+<img width="1901" height="907" alt="Image" src="https://github.com/user-attachments/assets/118f4507-306e-4a4d-9689-37ad7df15c05" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✍️ Authors
+
+- [@mjngayawon](https://github.com/mjngayawon)
